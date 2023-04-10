@@ -1,0 +1,30 @@
+
+
+.ThankYouPanel
+{
+    background-color:#1f2630;
+    padding: 40px;
+    border-radius: 50px;
+    height: 300px;
+    width: 290px;
+    text-align: center;
+}
+.selected
+{
+    color: var(--Orange);
+    background-color: var(--DarkBlue);
+    padding: 10px;
+    border-radius: 50px;
+    font-size: 14px;
+    
+}
+.title
+{
+  font-size: 32px;
+  margin-bottom: 4px;
+}
+.description
+{
+  color: var(--LightGrey);
+  font-size: 12px;
+}
