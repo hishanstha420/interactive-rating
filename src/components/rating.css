@@ -52,15 +52,15 @@
 .Submit
 {
   width: 100%;
-  background:var(--White);
-  color: var(--Orange);
+  background:var(--Orange);
+  color: var(--White);
   padding: 10px;
   border-radius: 40px;
 }
 .Submit:hover
 {
 
-  background:var(--Orange);
-  color: var(--White);
+  background:var(--White);
+  color: var(--Orange);
 
 }
