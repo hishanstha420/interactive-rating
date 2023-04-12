@@ -1,4 +1,5 @@
 # interactive-rating
-<img width="621" alt="image" src="https://user-images.githubusercontent.com/85561941/230847393-3ae641b2-3a80-44e7-91ad-4111d542def4.png">
-<img width="637" alt="image" src="https://user-images.githubusercontent.com/85561941/230847535-669d6e59-a120-4dfc-ba11-37a3e8ed4081.png">
-<img width="528" alt="image" src="https://user-images.githubusercontent.com/85561941/230847589-df551ec2-506d-49f7-bef1-2de4554219fb.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/85561941/231394130-6e8f025a-a77d-4774-9745-96073aa2edcd.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/85561941/231394209-b72f6f7e-c319-47f2-8706-abaec6ec9468.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/85561941/231394297-54e4107a-a2d2-4dd6-b730-ce6cc5d65603.png">
+
