@@ -22,13 +22,14 @@
 {
   color: var(--LightGrey);
   font-size: 12px;
+  margin-bottom: 20px;
 }
 .Group
 {
   display: flex;
   justify-content: space-between;
-
-  margin-bottom: 20px;
+ 
+  margin-bottom: 30px;
 }
 
 
